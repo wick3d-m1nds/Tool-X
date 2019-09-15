@@ -6,7 +6,7 @@
 import sys
 import os
 from modules.logo import exit
-from modules.menu import ToolX
+from modules.menu import Tool_X
 
 class chk(object):
   def chos(self):
